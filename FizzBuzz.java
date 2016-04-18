@@ -5,7 +5,7 @@ public class FizzBuzz {
     }else{
       int num = Integer.parseInt(args[0]);
       for(int i = 1; i <= num; i++ ){
-          //TODO: FizzBuzz
+           System.out.println(i);
       } 
     }
   }
